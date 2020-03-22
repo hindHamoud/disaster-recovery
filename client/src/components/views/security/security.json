@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "title":"Cloud Access Security Broker (CASB)",
+        "description":"The CASB solution covers cloud security, user behavior analytics, and shadow IT discovery. The also offers a web application firewall, identity and access management, identity cloud services, and key management.",
+        "tag":"Cloud access security brokerage",
+        "url":"https://www.oracle.com/sa/cloud/security/cloud-services/casb-cloud.html"
+    },
+    {
+        "id":2,
+        "title":"Okta",
+        "description":" provide strong central administrative features, They also offer one of the broadest integration networks in the industry, so you can add SSO capabilities to about every application imaginable",
+        "tag":"Single sign-on",
+        "url":"https://www.okta.com/"
+    },
+    
+    {
+        "id":3,
+        "title":"Proofpoint",
+        "description":"solution is designed to secure and control outbound and inbound email threats in any kind of environment, They use signature-based detection to protect your company against known and emerging threats from any kind of IP address",
+        "tag":"Email security",
+        "url":"https://www.proofpoint.com/us"
+    },
+    {
+        "id":4,
+        "title":"White Hat Security",
+        "description":"products use dynamic and static application security testing to make sure your websites and source code stay secure.  also offers a solution for web application security, which applies the same analytics and testing capabilities to any mobile apps your organization deploys.",
+        "tag":"Website and app Security",
+        "url":"https://www.whitehatsec.com/"
+    },
+    {
+        "id":5,
+        "title":"Qualys",
+        "description":" is an integrated suite of security and compliance solutions that was built in the cloud .Functional areas include continuous network monitoring, vulnerability management, compliance management, web scanning, web application firewall, malware detection, and secure website testing.",
+        "tag":"Network security",
+        "url":"https://www.qualys.com/"
+    }
+]
