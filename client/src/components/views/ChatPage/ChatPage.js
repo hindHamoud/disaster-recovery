@@ -115,7 +115,12 @@ export class ChatPage extends Component {
                 <div>
                     <p style={{ fontSize: '2rem', textAlign: 'center' }}> </p>
                 </div>
-
+ <Row>
+                    <Col span={6} >
+                        <div>hind</div><div>hind</div>
+                        <div>hind</div><div>hind</div>
+                    </Col>
+                    <Col span={16}>
                 <div style={{ maxWidth: '800px', margin: '0 auto' }}>
 
                     <div className="infinite-container" style={{ height: '500px', overflowY: 'scroll' }}>
@@ -165,6 +170,8 @@ export class ChatPage extends Component {
                         </Form>
                     </Row>
                 </div>
+</Col>
+                </Row>
             </React.Fragment></div>
         )
     }
